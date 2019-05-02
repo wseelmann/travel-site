@@ -91,7 +91,9 @@
 var $ = __webpack_require__(1);
 var Person = __webpack_require__(2);
 
-var john = new Person("John Doe", "blue");	
+alert("Testing 123");
+
+var john = new Person("John Doe", "blue");
 john.greet();
 
 var jane = new Person("Jane Smith", "green");
@@ -115,7 +117,7 @@ jane.greet();
 // }
 
 // var johnName = "John Doe";
-// var johnFavColor = "blue";	
+// var johnFavColor = "blue";
 
 // person(johnName, johnFavColor);
 // person("Jane Smith","green");
