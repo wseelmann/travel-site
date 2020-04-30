@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "gulp-usemin": "^0.3.29",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "jquery-smooth-scroll": "^2.2.0",
     "lazysizes": "^5.0.0-rc1",
     "normalize.css": "^4.1.1",
